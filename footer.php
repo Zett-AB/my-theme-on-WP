@@ -161,7 +161,5 @@
             </div>
         </footer>
         <!-- <script src="./js/main.min.js" defer></script>подключаем его через файл functions php, также как и стили через head -->
-        <?php
-            wp_footer();
-        ?>
+        
     </body>
